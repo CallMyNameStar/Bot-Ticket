@@ -1,0 +1,12 @@
+{
+  "prefix": "BOT PREFIX HERE",
+  "main_token": "BOT TOKEN",
+  "developers": ["YOUR ID"],
+  "bot_name":"BOT'S NAME HERE",
+  "emoji":"🎫",
+  "color":"#00FFCF",
+  "ticket_limit":"10",
+  "support_role_id":"SUPPORT ROLE ID HERE",
+  "category_id":"CHANNEL CATEGORY ID HERE",
+  "log_channel_id":"LOG CHANNEL ID HERE"
+}
